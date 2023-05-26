@@ -1,0 +1,31 @@
+{
+  "title": "IMG_20180830_013236.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1568400165",
+    "formatted": "Sep 13, 2019, 6:42:45 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1578957655",
+    "formatted": "Jan 13, 2020, 11:20:55 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "latitudeSpan": 0,
+    "longitudeSpan": 0
+  },
+  "geoDataExif": {
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "latitudeSpan": 0,
+    "longitudeSpan": 0
+  },
+  "photoTakenTime": {
+    "timestamp": "1535574756",
+    "formatted": "Aug 29, 2018, 8:32:36 PM UTC"
+  }
+}
